@@ -1,0 +1,17 @@
+D:\SimpleTrader\SimpleTrader.DAL\bin\Debug\net6.0\SimpleTrader.DAL.deps.json
+D:\SimpleTrader\SimpleTrader.DAL\bin\Debug\net6.0\SimpleTrader.DAL.dll
+D:\SimpleTrader\SimpleTrader.DAL\bin\Debug\net6.0\SimpleTrader.DAL.pdb
+D:\SimpleTrader\SimpleTrader.DAL\obj\Debug\net6.0\SimpleTrader.DAL.csproj.AssemblyReference.cache
+D:\SimpleTrader\SimpleTrader.DAL\obj\Debug\net6.0\SimpleTrader.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\SimpleTrader\SimpleTrader.DAL\obj\Debug\net6.0\SimpleTrader.DAL.AssemblyInfoInputs.cache
+D:\SimpleTrader\SimpleTrader.DAL\obj\Debug\net6.0\SimpleTrader.DAL.AssemblyInfo.cs
+D:\SimpleTrader\SimpleTrader.DAL\obj\Debug\net6.0\SimpleTrader.DAL.csproj.CoreCompileInputs.cache
+D:\SimpleTrader\SimpleTrader.DAL\obj\Debug\net6.0\SimpleTrader.DAL.dll
+D:\SimpleTrader\SimpleTrader.DAL\obj\Debug\net6.0\refint\SimpleTrader.DAL.dll
+D:\SimpleTrader\SimpleTrader.DAL\obj\Debug\net6.0\SimpleTrader.DAL.pdb
+D:\SimpleTrader\SimpleTrader.DAL\obj\Debug\net6.0\ref\SimpleTrader.DAL.dll
+D:\SimpleTrader\SimpleTrader.DAL\bin\Debug\net6.0\SimpleTrader.Domain.dll
+D:\SimpleTrader\SimpleTrader.DAL\bin\Debug\net6.0\SimpleTrader.Domain.pdb
+D:\SimpleTrader\SimpleTrader.DAL\obj\Debug\net6.0\SimpleTrader.DAL.csproj.CopyComplete
+D:\SimpleTrader\SimpleTrader.DAL\bin\Debug\net6.0\SimpleTrader.DAL.runtimeconfig.json
+D:\SimpleTrader\SimpleTrader.DAL\obj\Debug\net6.0\SimpleTrader.DAL.genruntimeconfig.cache

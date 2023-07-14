@@ -1,0 +1,12 @@
+D:\SimpleTrader\SimpleTrader.Domain\bin\Debug\net6.0\SimpleTrader.Domain.deps.json
+D:\SimpleTrader\SimpleTrader.Domain\bin\Debug\net6.0\SimpleTrader.Domain.dll
+D:\SimpleTrader\SimpleTrader.Domain\bin\Debug\net6.0\SimpleTrader.Domain.pdb
+D:\SimpleTrader\SimpleTrader.Domain\obj\Debug\net6.0\SimpleTrader.Domain.csproj.AssemblyReference.cache
+D:\SimpleTrader\SimpleTrader.Domain\obj\Debug\net6.0\SimpleTrader.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\SimpleTrader\SimpleTrader.Domain\obj\Debug\net6.0\SimpleTrader.Domain.AssemblyInfoInputs.cache
+D:\SimpleTrader\SimpleTrader.Domain\obj\Debug\net6.0\SimpleTrader.Domain.AssemblyInfo.cs
+D:\SimpleTrader\SimpleTrader.Domain\obj\Debug\net6.0\SimpleTrader.Domain.csproj.CoreCompileInputs.cache
+D:\SimpleTrader\SimpleTrader.Domain\obj\Debug\net6.0\SimpleTrader.Domain.dll
+D:\SimpleTrader\SimpleTrader.Domain\obj\Debug\net6.0\refint\SimpleTrader.Domain.dll
+D:\SimpleTrader\SimpleTrader.Domain\obj\Debug\net6.0\SimpleTrader.Domain.pdb
+D:\SimpleTrader\SimpleTrader.Domain\obj\Debug\net6.0\ref\SimpleTrader.Domain.dll
